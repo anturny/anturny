@@ -1,16 +1,19 @@
-## Hi there 👋
+## About me
 
-<!--
-**anturny/anturny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineer Major with an Electrical Engineering Minor in the bioinstrumentation track working in an AI VIP Lab aiming to develop a machine learning model pertaining to electromagnets.
 
-Here are some ideas to get you started:
+Skills: 
+- VCU Makerspace Module I & II (Basic Fabrication)
+- C Coding (Currently Developing)
+- Solidworks 2024 (Currently Developing)
+- Seal of Biliteracy in Vietnamese | Intermediate High Level Proficiency in French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Courses:
+- Biomedical Signal Processing
+- Device Design Methods
+- Biomedical Instrumentation
+- Biomechanics
+- Biomaterials
+- Statics & Mechanics of Materials
+- Engineering Programming & Computational Methods
+- Electric Circuits I & II, Physics I & II, Calculus I & II, Differential Equations, Linear Algebra
