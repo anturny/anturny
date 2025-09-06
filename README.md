@@ -4,8 +4,8 @@ I'm a Biomedical Engineer Major with an Electrical Engineering Minor in the bioi
 
 Skills: 
 - VCU Makerspace Module I & II (Basic Fabrication)
-- C Coding (Currently Developing)
-- Solidworks 2024 (Currently Developing)
+- C and Python Coding
+- Solidworks 2024 
 - Seal of Biliteracy in Vietnamese | Intermediate High Level Proficiency in French
 
 Courses:
