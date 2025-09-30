@@ -9,11 +9,11 @@ Skills:
 - Seal of Biliteracy in Vietnamese | Intermediate High Level Proficiency in French
 
 Courses:
+- Microelectronics
+- Medical Imaging
 - Biomedical Signal Processing
-- Device Design Methods
-- Biomedical Instrumentation
 - Biomechanics
+- Biomedical Instrumentation
 - Biomaterials
-- Statics & Mechanics of Materials
-- Engineering Programming & Computational Methods
-- Electric Circuits I & II, Physics I & II, Calculus I & II, Differential Equations, Linear Algebra
+- Applied Human Physiology
+- Device Designs
